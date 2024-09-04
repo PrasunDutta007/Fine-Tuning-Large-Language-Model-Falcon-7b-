@@ -1,6 +1,6 @@
 # Fine Tuning Large Language Model Falcon-7B
 
-<img src="Screenshots/Falcon.jpg" width="100%">
+<img src="Screenshots/falcon.jpg" width="100%">
 
 ## Requirements 
 

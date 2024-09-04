@@ -1,4 +1,4 @@
-# Fine-Tuning-Large-Language-Model-Falcon-7b
+# Fine Tuning Large Language Model Falcon-7B
 
 <img src="Screenshots/Falcon.jpg" width="100%">
 
@@ -19,6 +19,8 @@
   - BERTScore
   - MoverScore
 
- &rarr; Refer to the 3 [PPTs](PPTs/) 
+ &rarr; Refer to the 3 [PPTs](PPTs/) for a detailed explaination related to concepts, fine-tuning procedure and evaluation metrics.
+
+ 
 
 

@@ -21,7 +21,7 @@
 
  &rarr; Refer to the 3 [PPTs](PPTs/) for a detailed explaination related to concepts, fine-tuning procedure and evaluation metrics.
 
- &rarr; Refer to the [Finetuning](Finetuning/) for ipython files realted to fine-tuning procedure.
+ &rarr; Refer to the [Finetuning](Finetuning/) for ipython files related to fine-tuning procedure.
 
  
 
